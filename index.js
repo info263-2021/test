@@ -23,3 +23,5 @@ function showElement(elementId) {
 }
 
 asfasdf
+
+console.log('hi');

@@ -6,3 +6,4 @@ $.get('view_events.php', function (data) {
 function homePage() {
     window.location.assign("index.html");
 }
+console.log('hello');
